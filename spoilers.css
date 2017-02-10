@@ -1,0 +1,9 @@
+.spoiler-protect:hover{
+  background-color: red;
+}
+.spoiler-protect{
+  color:lightgrey;
+}
+body{
+  background-color: lightgrey;
+}
